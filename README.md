@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kasia-gerschmann
-- 👀 I’m interested in web development and tennis
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning advanced React concepts
 - 📫 How to reach me -> kasia.gerschmann@gmail.com
 
